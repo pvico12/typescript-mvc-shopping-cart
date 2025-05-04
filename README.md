@@ -8,8 +8,9 @@ A modern shopping cart application built with TypeScript using the Model-View-Co
 - Vite - For fast development and building
 
 ## Demo
-![Shopping Cart](main-screen.png)
-![Categories Editing Screen](screenshot.png)
+![Shopping Cart](public/main-screen.png)
+
+![Categories Editing Screen](public/screenshot.png)
 
 ## Features
 
