@@ -1,0 +1,19 @@
+#settings {
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#settings button {
+    width: 128px;
+}
+
+#settings .button-container {
+    display: flex;
+    gap: 8px;
+}
+
+#settings .button-container button {
+    width: 80px;
+}

@@ -1,0 +1,13 @@
+#add-section-container {
+    padding: 8px;
+    border-top: 1px solid #c0c0c0;
+    border-bottom: 1px solid #c0c0c0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+  
+#add-section-container input[type="text"] {
+    width: 100%;
+    min-width: 160px;
+}

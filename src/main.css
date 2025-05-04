@@ -1,0 +1,26 @@
+/* Global text style */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Button styles */
+button {
+    cursor: pointer;
+    border-radius: 4px;
+    border: 1px solid #666;
+}
+
+button:disabled {
+    background-color: #e0e0e0;
+    border-color: #e0e0e0;
+}
+
+button:hover {
+    background-color: rgba(135, 236, 250, 1);
+    border-color: rgba(100, 149, 237, 1);
+}
+
+button:active {
+    background-color: rgba(100, 149, 237, 1);
+    border-color: rgba(135, 236, 250, 1);
+}

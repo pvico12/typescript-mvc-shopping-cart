@@ -1,0 +1,51 @@
+#list-view {
+    padding-top: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+  
+.category-section {
+    padding: 8px;
+    position: relative;
+    border-radius: 0 0 8px 8px;
+    border-left: 4px solid rgba(0, 0, 0, 0.15);
+}
+
+.category-header {
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.15);
+    padding: 4px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.item-list {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.item-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.item-row label {
+    min-width: 160px;
+    width: 100%;
+    text-align: left;
+}
+
+.item-row input[type="number"] {
+    width: 57px;
+}
+
+.item-row label.bought {
+    text-decoration: line-through;
+}
