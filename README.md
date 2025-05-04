@@ -10,7 +10,7 @@ A modern shopping cart application built with TypeScript using the Model-View-Co
 ## Demo
 ![Shopping Cart](public/main-screen.png)
 
-![Categories Editing Screen](public/screenshot.png)
+![Categories Editing Screen](public/edit-categories.png)
 
 ## Features
 
